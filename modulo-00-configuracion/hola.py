@@ -1,0 +1,7 @@
+print ("===================================")
+print ("Bootcamp Python para SIG")
+print ("Nombre: Jhon Moya")
+print ("Ciudad:  Fusagasuga")
+print ("Profesion: Tecnologo en Cartográfia")
+print ("Meta: Ser desarrollador Python para SIG")
+print ("===================================")

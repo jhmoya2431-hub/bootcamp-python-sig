@@ -1,0 +1,1 @@
+El dia 5 de julio del a¤o 2025 empece mi curso con ChatGPT para ser desarrollador DSIG con Python, el dia de hoy aprendi a instalar la herrmiantas necesarias, vcrear un repositorio en GitHub y tambien a enlazarlo con mi rpoyecto local, a demas ejecute las primeras lineas en un archivo python
